@@ -6,3 +6,5 @@ streamlit-folium
 pandas
 numpy
 matplotlib
+scipy
+plotly
