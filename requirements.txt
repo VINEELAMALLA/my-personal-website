@@ -2,6 +2,7 @@ streamlit
 networkx
 pyvis
 folium
+streamlit-folium
 pandas
 numpy
 matplotlib
